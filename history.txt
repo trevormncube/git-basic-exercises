@@ -1,0 +1,254 @@
+    1  ./studio.sh
+    2  pwd
+    3  dir
+    4  cd Desktop
+    5  ./studio.sh
+    6  ls -a
+    7  cd android-studio
+    8  ls
+    9  bin
+   10  cd bin
+   11  ls
+   12  ./studio.sh
+   13  pwd
+   14  dir
+   15  cd Desktop
+   16  ls
+   17  cd android-studio
+   18  ls
+   19  cd .
+   20  cd ..
+   21  pwd
+   22  dir
+   23  Android
+   24  cd Android
+   25  ls
+   26  cd ..
+   27  cd AndroidStudioProjects
+   28  ls
+   29  ls -a
+   30  cd MyApplication
+   31  ls 
+   32  cd..
+   33  cd ..
+   34  cd ...
+   35  cd ..
+   36  exit
+   37  gedit ~/.bashrc
+   38  pwd
+   39  dir
+   40  cd Desktop
+   41  ls
+   42  cd android-studio
+   43  dir
+   44  cd bin
+   45  ls
+   46  alias studio = '/home/sacred-geometry/Desktop/android-studio/bin/studio.sh'
+   47  cs..
+   48  cd ..
+   49  pwd
+   50  cd ..
+   51  alias studio = '/home/sacred-geometry/Desktop/android-studio/bin/studio.sh'
+   52  alias studio= '/home/sacred-geometry/Desktop/android-studio/bin/studio.sh'
+   53  alias studio='/home/sacred-geometry/Desktop/android-studio/bin/studio.sh'
+   54  source ~/.bashrc
+   55  studio
+   56  version 1.0
+   57  [Desktop Entry]
+   58  pwd
+   59  ls
+   60  cd home
+   61  dir
+   62  cd sacred-geometry
+   63  ls
+   64  cd Desktop
+   65  [Desktop Entry]
+   66  history
+   67  sudo apt update
+   68  sudo apt install snapd
+   69  sudo snap install transmission --beta
+   70  sudo snap install transmission 
+   71  sudo snap install --edge transmission 
+   72  sudo snap install transmission --beta
+   73  sudo snap install transmission --beta --jailmode
+   74  sudo apt install vault
+   75  sudo apt get install vault
+   76  sudo apt-get install vault
+   77  sudo apt install audacious
+   78  sudo apt install usb-creator-gtk
+   79  sudo apt install visualstudio
+   80  sudo apt install visual-studio
+   81  https://code.visualstudio.com/Download
+   82  sudo dpkg -i code_1.26.0-1534177765_amd64.deb
+   83  sudo snap install code --classic
+   84  sudo apt-get install gnome-tweak-tool
+   85  gnome-tweak-tool
+   86  /.snome-tweak-tool.
+   87  /.gnome-tweak-tool.
+   88  gnome-tweak-tool
+   89  pwd
+   90  cd Desktop
+   91  pwd
+   92  ls
+   93  apt-get install git
+   94  sudo su
+   95  sudo add-apt-repository multiverse
+   96  sudo apt-get install unrar
+   97  unrar WIN10-MULT.18X1-X64-1803.part01
+   98  unrar WIN10-MULT.18X1-X64-1803.part01 e
+   99  pwd
+  100  ls
+  101  cd Desktop
+  102  ls
+  103  cd android-studio
+  104  ls
+  105  cd bin
+  106  ls
+  107  sudo ./studio.sh
+  108  sudo apt-get install jupyter
+  109  sudo apt install numpy
+  110  sudo apt-get install numpy
+  111  sudo apt-get install pandas
+  112  conda install numpy
+  113  sudo apt-get install conda
+  114  sudo apt-get install python3-numpy
+  115  sudo apt-get install python3-pandas
+  116  sudo apt-get install python3-matplotlib
+  117  sudo apt-get install python3-seaborn
+  118  sudo apt-get install python3-scipy
+  119  sudo apt-get install python3-scikit
+  120  sudo apt-get install scikit
+  121  sudo apt-get install python3-learn
+  122  sudo apt-get install python3-noteboook
+  123  sudo apt install python3-scikit
+  124  bash Anaconda-latest-linux-x86_64.sh 
+  125  ls
+  126  ls /
+  127  pwd
+  128  mkdir Learning_unix
+  129  ls
+  130  pwd
+  131  ls
+  132  cd Learning_unix
+  133  mkdir outer_directory
+  134  cd outer_directory
+  135  mk inner_directory
+  136  mkdir inner_directory
+  137  cd inner_directory
+  138  cd..
+  139  cd ..
+  140  mkdir -p outer/inner
+  141  ls
+  142  cd outer
+  143  ls
+  144  cd inner
+  145  cd ..
+  146  cd home
+  147  cd /
+  148  cd home
+  149  pwd
+  150  ls
+  151  cd Learning_unix
+  152  cd 
+  153  ls
+  154  cd Learning_linuc
+  155  cd Learning_linux
+  156  cd Learning_unix
+  157  pwd
+  158  ls
+  159  cd outer
+  160  cd innner
+  161  cd inner
+  162  cd /
+  163  cd home
+  164  cd ubuntu
+  165  cd kubuntu
+  166  ls
+  167  cd home/sacred-geometry/Desktop
+  168  cd home/sacred-geometry
+  169  cd home/sacred-geometry/
+  170  cd sacred-geometry/Desktop
+  171  cd ~
+  172  home
+  173  cd hoem
+  174  cd outer
+  175  cd Outer
+  176  cd outer
+  177  cd / pwd
+  178  / pwd
+  179  /pwd
+  180  pwd /
+  181  pwd ~
+  182  cd ~/outward
+  183  pwd
+  184  /home/sacred-geometry
+  185  cd /sacred-geometry/Desktop
+  186  cd sacred-geometry/Desktop
+  187  cd sacred-geometry
+  188  cd home/sacred-geometry/Desktop
+  189  pwd
+  190  ls
+  191  cd ~/outer
+  192  cd /
+  193  homw
+  194  cd home
+  195  ls
+  196  cd ~/learning_unix
+  197  cd ~/Learning_unix
+  198  cd /
+  199  home
+  200  cd home
+  201  cd ~/inner
+  202  cd ~/outer
+  203  ls
+  204  cd ~/Learning_unix
+  205  Cd ~/outer
+  206  cd ~/outer
+  207  cd ~/ls
+  208  ls
+  209  ~ls
+  210  ls -l
+  211  is -r
+  212  ls -R
+  213  ls -l -t -r 
+  214  ls -lh
+  215  cd /
+  216  cd home
+  217  ls -R
+  218  exit
+  219  cd ~/Learning_unix
+  220  echo "Call me Ishmael." > opening_lines.txt
+  221  ls
+  222  cat opening_lines.txt
+  223  less opening_lines.txt
+  224  nano opening_lines.txt
+  225  echo $PATH
+  226  echo $HOME
+  227  echo $USER
+  228  nano opening_lies.txt
+  229  nano opening_lines.txt
+  230  grep was opening_lines.txt
+  231  grep -v was opening_lines.txt
+  232  grep all opening_lines.txt
+  233  grep -i all opening_lines.txt
+  234  grep -in opening_lines.txt
+  235  pwd
+  236  ls
+  237  cd git-basic-exercises
+  238  ls
+  239  nano milkshakes.md
+  240  cat milkshakes.md
+  241  nano milkshakes.md
+  242  git status
+  243  git log
+  244  git commit -m "added initial flavours"
+  245  git add milkshakes.md
+  246  git commit -m "added initial flavours"
+  247  git log
+  248  git checkout master
+  249  git log
+  250  git branch history
+  251  git branch
+  252  git checkout history
+  253  git log
+  254  history >history.txt
